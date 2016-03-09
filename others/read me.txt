@@ -1,0 +1,13 @@
+1.Viewer是在Eclipse里建立的项目
+
+2.Roberts算子是Roberts算子边缘检测的源码
+
+3.二值化是将图片二值化的源码
+
+4.实验报告为图片查看器.docx和图片查看器.pdf
+
+5.源码即为程序代码
+
+6.metadata-extractor-2.3.1为获取EXIF的Java包
+
+谢谢:-D
